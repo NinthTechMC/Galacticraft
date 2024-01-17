@@ -1,0 +1,25 @@
+{
+    "modid": "gcdeps",
+    "java": 8,
+    "template": "forge-1.7.10",
+    "version": "3.0.12-1.7.10",
+    "gradleOverride": {
+        "enabled": true,
+        "version": "dev",
+        "group": "micdoodle8.mods.galacticraft",
+        "archiveBaseName": "gcdeps"
+    },
+    "name": "A",
+    "description": "",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [],
+    "libs": [
+        "https://github.com/GTNewHorizons/Player-API/releases/download/1.4.4/PlayerAPI-1.4.4-dev.jar"
+    ]
+}

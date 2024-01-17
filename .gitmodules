@@ -1,0 +1,8 @@
+[submodule "mcmod-forge-1.7.10"]
+	path = forge
+	url = https://github.com/NinthTechMC/mcmod-forge-1.7.10
+	branch = main
+[submodule "deps-mcmod-forge-1.7.10"]
+	path = dependencies/forge
+	url = https://github.com/NinthTechMC/mcmod-forge-1.7.10
+	branch = main
