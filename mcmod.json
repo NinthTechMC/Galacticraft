@@ -10,7 +10,7 @@
         "archiveBaseName": "Galacticraft"
     },
     "coremod": "micdoodle8.mods.miccore.MicdoodlePlugin",
-    "accessTransformer": "micdoodlecore_at.cfg",
+    "accessTransformer": "assets/micdoodlecore_at.cfg",
     "name": "Galacticraft Core",
     "description": "An advanced space travel mod for Minecraft 1.7",
     "url": "http://www.micdoodle8.com/",
