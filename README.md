@@ -12,6 +12,8 @@ distribution of compiled binary is prohibited. If you just want a playable (obfu
 ## Build
 **Make sure you have read important licensing information above.**
 
+**note: currently won't build as I am updating the mcmod tool**
+
 You need my [mcmod](https://github.com/NinthTechMC/mcmod) tool for building this mod. Optionally, you need [magoo](https://github.com/Pistonite/magoo).
 
 1. `cd` to the repo you cloned
